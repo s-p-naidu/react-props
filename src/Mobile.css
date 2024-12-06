@@ -1,0 +1,18 @@
+.mainframe{
+    border:1px solid;
+    padding:10px;
+    display:grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    margin-bottom: 10px;
+}
+.image img{
+    height:300px;
+    width:250px;
+}
+.price h3{
+    font-size:50px;
+}
+.price img{
+    height:40px;
+    width:100px;
+}
